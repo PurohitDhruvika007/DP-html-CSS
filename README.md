@@ -4,3 +4,5 @@
 <img src="landing .png"/>
 <h1>Happenstance</h1>
 <img src="happenstance.png"/>
+<h1>chessboard</h1>
+<img src="chessboard.png"/>
