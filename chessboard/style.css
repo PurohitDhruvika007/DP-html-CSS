@@ -1,0 +1,62 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    display:flex;
+    justify-items: center;
+    height:100vh;
+    width:100%;
+}
+.main
+{
+    height:800px;
+    width:800px;
+    margin:auto;
+    background-color: black;
+}
+.one
+{
+    display: flex;
+    height:100px;
+    width:800px;
+}
+.chocolate
+{
+    height:100px;
+    width:100px;
+    background-color: rgba(217, 106, 42, 0.572);
+    
+}
+.cream
+{
+    height:100px;
+    width:100px;
+    background-color: rgb(245, 202, 172);
+   
+}
+.two
+{
+    display: flex;
+    height:100px;
+    width:800px;
+}
+.white
+{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    line-height: 100px;
+    color: white;
+}
+.black
+{
+    font-size:70px;
+    display: flex;
+    justify-content: center;
+    line-height:100px;
+    color:black;
+}
