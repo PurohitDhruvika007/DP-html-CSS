@@ -11,8 +11,8 @@
 <h1>jQuery</h1>
 <img src="jquery.png"/>
 <h1>Robert downey</h1>
-<img src="robert downey.png"/>
+<img src="robe downey.png"/>
 <h1>Shoes</h1>
 <img src="shoes.png"/>
-<h1>thought</h1>
+<h1>Thought</h1>
 <img src="thought.png"/>
