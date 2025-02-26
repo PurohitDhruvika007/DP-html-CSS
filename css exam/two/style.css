@@ -1,0 +1,94 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: #BEDFE8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.profile
+{
+    height:700px;
+    width:400px;
+    background-color: white;
+    border-radius: 20px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left:50%;
+    top:50%;
+    padding: 30px;
+    overflow: auto;
+}
+.image
+{
+    position: relative;
+    height:260px;
+    width:260px;
+    margin: auto;
+    border-radius: 50%;
+    border: 5px solid gray;
+}
+img
+{
+    height:250px;
+    width:100%;
+    border-radius: 50%;
+}
+h1
+{
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+h2
+{
+    background-color: white;
+    text-align: center;
+    color: grey;
+    font-weight: 400;
+}
+p
+{
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contact
+{
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+a
+{
+    background-color: white;
+    font-size: 40px;
+    color:black;
+    text-decoration: none;
+    
+}
+i
+{
+    background-color: white;
+    border: 2px solid grey;
+    padding: 5px;
+    border-radius: 50%;
+}
+button
+{
+    background-color: black;
+    color:white;
+    height:50px;
+    width: 200px;
+    font-size: 20px;
+   position: relative;
+   left:60px;
+   border: none;
+   outline: none;
+   border-radius: 10px;
+   margin-top: 30px;
+}

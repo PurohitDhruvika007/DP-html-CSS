@@ -1,0 +1,52 @@
+*
+{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: ghostwhite;
+}
+h1
+{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+label
+{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.form
+{
+    margin: auto;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left:50%;
+    top:50%;
+    height:420px;
+    width:450px;
+    
+    border:2px solid black;
+    border-radius: 20px;
+}
+input
+{
+    height: 30px;
+    width:200px;
+    margin-bottom: 20px;
+}
+textarea
+{
+    height: 100px;
+    width:200px;
+}
+button
+{
+    height: 30px;
+    width:300px;
+    color: white;
+    background-color: black;
+    border:none;
+    outline: none;
+    margin-top: 20px;
+}
