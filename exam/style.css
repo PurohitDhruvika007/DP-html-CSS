@@ -1,0 +1,150 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+body
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('img/background.jpg');
+	height:100vh;
+	width:100%;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.box
+{
+	height:500px;
+	width:400px;
+	background-color:#ffffff;
+	border-radius:10px;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	top:50%;
+	left:50%;
+}
+h1
+{
+	text-align:center;
+	color:#513252;
+	font-size:40px;
+	position:relative;
+	top:20px;
+	font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+img
+{
+	position:relative;
+	top:20px;
+	left:85px;
+}
+.one
+{
+	position:relative;
+	top:8%;
+	left:5%;
+	width:400px;
+	height:40px;
+	
+}
+.one input
+{
+	border:none;
+	outline:none;
+	width:90%;
+	height:40px;
+	border-radius:3px;
+	border:1px solid  #513252;
+}
+.two
+{
+	position:relative;
+	top:12%;
+	left:5%;
+	width:400px;
+	height:40px;
+	
+}
+.two input
+{
+	border:none;
+	outline:none;
+	width:90%;
+	height:40px;
+	border-radius:3px;
+	border:1px solid  #513252;
+}
+.first
+{
+	font-size:18px;
+	text-decoration:none;
+	color:#ab5692;
+	position:relative;
+	top:15%;
+	left:5%;
+	font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+::placeholder
+{
+	padding-left:5px;
+}
+.submit
+{
+	height:40px;
+	width:90%;
+	background:linear-gradient(to right,#ab5692, #513252);
+	font-size:20px;
+	position:relative;
+	top:20%;
+	left:5%;
+	color:#ffffff;
+	border:none;
+	border-radius:5px;
+	font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.or
+{
+	position:relative;
+	top:30%;
+	right:43%;
+}
+
+i
+{
+	font-size:20px;
+	border:1px dotted #000000;
+	border-radius :50%;
+	position:relative;
+	top:32%;
+	left:40%;
+	padding:10px;
+	color:#ab5692;
+}
+.content
+{
+	text-decoration:none;
+	color:#000000;
+	position:relative;
+	top:45%;
+	right:5%;
+	font-size:20px;
+	font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	
+}
+.sign
+{
+	color:#ab5692;
+	font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

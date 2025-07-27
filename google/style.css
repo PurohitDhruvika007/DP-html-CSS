@@ -1,0 +1,190 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+body
+{
+	overflow: hidden;
+}
+.mail
+{
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+}
+.imm
+{
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+}
+.google
+{
+	position:absolute;
+	tansform:translate(-50%,-50%);
+	left:40%;
+	top:20%;
+	font-family:arial;
+}
+input
+{
+	height:39px;
+	width:80%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	top:48%;
+	left:46%;
+	border:none;
+	outline:none;
+	border-radius:50px;
+	font-size:18px;
+}
+
+.input
+{
+	height:45px;
+	width:45%;
+	position:absolute;
+	transform:translate(-50%,-50%);
+	top:45%;
+	left:52%;
+	border:1px solid grey;
+	border-radius:50px;
+	
+}
+.search
+{
+	position:absolute;
+	transform:translate(-50%;-50%);
+	top:43.2%;
+	left:30.5%;
+}
+.search i
+{
+	font-size:20px;
+	color:grey;
+}
+.image
+{
+	position:absolute;
+	transform:translate(-50%;-50%);
+	left:70%;
+	top:43.5%;
+}
+.first
+{
+	background-color:rgb(238, 233, 233);;
+	margin-right:15px;
+	padding:5px 10px;
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+}
+.second
+{
+	background-color:rgb(238, 233, 233);
+	padding:5px 10px;
+	text-decoration:none;
+	color:black;
+	font-family:arial;
+}
+.content
+{
+	position:absolute;
+	top:55%;
+	left:40%;
+	
+}
+.para a 
+{
+	text-decoration:none;
+	font-family:arial;
+}
+.para
+{
+	position:absolute;
+	top:64%;
+	left:30%;	
+	font-family:arial;
+}
+.base1
+{
+	background-color:rgb(238, 233, 233);
+	height:45px;
+	width:100%;
+	position:absolute;
+	top:87.8%;
+	padding:15px 0 0 30px;
+	border-bottom:1px solid rgb(150, 146, 146);
+	font-family:arial;
+	font-size:16px;
+}
+.base2
+{
+	background-color:rgb(238, 233, 233);
+	height:45px;
+	width:100%;
+	position:absolute;
+	top:94%;
+	font-family:arial;
+	font-size:16px;
+}
+.last1
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:2%;
+	color:black;
+
+}
+.last2
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:10%;
+	color:black;
+}
+.last3
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:20%;
+	color:black;
+}
+.last4
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:27%;
+	color:black;
+}
+.last5
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:83%;
+	color:black;
+}
+.last6
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:89%;
+	color:black;
+}
+.last7
+{
+	text-decoration:none;
+	position:absolute;
+	top:15px;
+	left:94%;
+	color:black;
+}
