@@ -1,0 +1,120 @@
+*
+{
+	margin:0%;
+	padding:0%;
+	box-sizing:border-box;
+}
+body
+{
+	background-image:linear-gradient(rgba(0,0,0,0.5)
+	,rgba(0,0,0,0.5)),url('images/background.jpg');
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	backgroud-attchment:fixed;
+}
+.box
+{
+	height:520px;
+	width:400px;
+	background:linear-gradient(rgba(0,0,0,0.7),
+	rgba(0,0,0,0.7));
+	position:absolute;
+	transform:translate(-50%,-50%);
+	left:50%;
+	top:50%;
+}
+img
+{
+	position:relative;
+	bottom:12%;
+}
+.box2
+{
+	height:420px;
+	width:300px;
+	position:relative;
+	margin:50px 50px;
+	font-family:Segoe UI;
+}
+h1
+{
+	color:white;
+	font-size:40px;
+	font-weight:600;
+}
+input
+{
+	height:45px;
+	width:100%;
+	outline:none;
+	border:none;
+	background-color:#2F2F2F;
+	border-radius:5px;
+	font-size:18px;
+}
+.password input
+{
+	margin-top:20px;
+}
+::placeholder
+{
+	padding-left:3%;
+	color:#7C7C7C;
+	font-size:15px;
+}
+.submit input
+{
+	background-color:red;
+	color:white;
+	position:relative;
+	margin-top:15%;
+}
+i
+{
+	color:white;
+	font-size:17px;
+	position:relative;
+	top:8px;
+}
+a
+{
+	color:white;
+	text-decoration:none;
+	position:relative;
+	top:6.5px;
+	font-size:14px;
+}
+.icon
+{
+	display:inline-block;
+}
+.help
+{
+	display:inline-block;
+	position:relative;
+	left:38%;
+}
+.next
+{
+	position:relative;
+	top:15%;
+}
+p
+{
+	color:white;
+	position:relative;
+	top:19%;
+	font-size:13px;
+}
+.p
+{
+	position:relative;
+	top:13.3%;
+	left:46%;
+	font-size:14px;
+}
+.p a
+{
+	color:blue;
+}
